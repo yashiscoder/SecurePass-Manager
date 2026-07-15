@@ -49,9 +49,9 @@ The project demonstrates concepts of:
 ## 📁 Project Structure
 
 ```
-PasswordManager/
+SecurePass-Manager/
 │
-├── main.cpp
+├── SecurePass-Manager.cpp
 ├── username.txt          # Created automatically for each registered user
 └── README.md
 ```
