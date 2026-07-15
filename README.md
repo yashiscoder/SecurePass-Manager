@@ -250,4 +250,5 @@ This project is intended for educational and learning purposes.
 
 MCA Student | AI & Machine Learning Enthusiast | C++ Developer
 
-GitHub: https://github.com/yashiscoder
+GitHub: [https://github.com/yashiscoder]
+Website: [https://yashkmt.netlify.app/]
