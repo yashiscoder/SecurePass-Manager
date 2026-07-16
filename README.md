@@ -1,4 +1,4 @@
-# 🔐 SecurePass-Manager (C++)
+# 🔐 SecurePass-Manager (C++
 
 A secure and user-friendly **Console-Based Password Manager** developed in **C++** that allows users to securely store and manage credentials for multiple accounts. The application provides user authentication, password strength analysis, email validation, and file-based data persistence.
 
