@@ -3,7 +3,6 @@
 A secure and user-friendly **Console-Based Password Manager** developed in **C++** that allows users to securely store and manage credentials for multiple accounts. The application provides user authentication, password strength analysis, email validation, and file-based data persistence.
 
 ---
-
 ## 📖 Overview
 
 This project is designed to help users manage their login credentials for different platforms from a single application. Each registered user has their own encrypted storage file (basic file-based storage), allowing credentials to remain separated and organized.
